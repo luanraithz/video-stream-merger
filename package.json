@@ -16,6 +16,6 @@
   "devDependencies": {
     "getusermedia": "^2.0.1",
     "standard": "^8.6.0",
-    "tape": "^4.6.3"
+    "tape": "^5.2.1"
   }
 }
